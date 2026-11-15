@@ -2,8 +2,9 @@
 data/raw/*.csv
 
 # 2. Credenciales y contraseñas de Base de Datos (Seguridad en MySQL)
+*db_config.py
+*db.py
 .env
-src/db_config.py
 
 # 3. Archivos temporales de Python y del Sistema Operativo
 __pycache__/

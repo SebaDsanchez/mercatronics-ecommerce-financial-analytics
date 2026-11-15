@@ -1,0 +1,2001 @@
+customer_id,region,acquisition_channel
+CUST-0001,Centro,Organic Search
+CUST-0002,Centro,Paid Ads
+CUST-0003,Norte,Referral
+CUST-0004,Norte,Social Media
+CUST-0005,Centro,Paid Ads
+CUST-0006,Sur,Paid Ads
+CUST-0007,Centro,Paid Ads
+CUST-0008,Sur,Organic Search
+CUST-0009,Sur,Social Media
+CUST-0010,Norte,Referral
+CUST-0011,Centro,Referral
+CUST-0012,Centro,Paid Ads
+CUST-0013,Norte,Paid Ads
+CUST-0014,Sur,Paid Ads
+CUST-0015,Patagonia,Direct / Unknown
+CUST-0016,Norte,Organic Search
+CUST-0017,Norte,Organic Search
+CUST-0018,Centro,Referral
+CUST-0019,Sur,Referral
+CUST-0020,Centro,Organic Search
+CUST-0021,Centro,Referral
+CUST-0022,Centro,Organic Search
+CUST-0023,Norte,Organic Search
+CUST-0024,Norte,Paid Ads
+CUST-0025,Norte,Direct / Unknown
+CUST-0026,Patagonia,Organic Search
+CUST-0027,Centro,Paid Ads
+CUST-0028,Centro,Paid Ads
+CUST-0029,Sur,Direct / Unknown
+CUST-0030,Centro,Paid Ads
+CUST-0031,Patagonia,Paid Ads
+CUST-0032,Sur,Referral
+CUST-0033,Centro,Social Media
+CUST-0034,Centro,Social Media
+CUST-0035,Patagonia,Referral
+CUST-0036,Centro,Social Media
+CUST-0037,Sur,Paid Ads
+CUST-0038,Sur,Social Media
+CUST-0039,Centro,Paid Ads
+CUST-0040,Patagonia,Paid Ads
+CUST-0041,Norte,Organic Search
+CUST-0042,Norte,Organic Search
+CUST-0043,Sur,Paid Ads
+CUST-0044,Sur,Organic Search
+CUST-0045,Norte,Referral
+CUST-0046,Centro,Direct / Unknown
+CUST-0047,Centro,Referral
+CUST-0048,Norte,Referral
+CUST-0049,Sur,Paid Ads
+CUST-0050,Centro,Organic Search
+CUST-0051,Centro,Paid Ads
+CUST-0052,Centro,Organic Search
+CUST-0053,Norte,Direct / Unknown
+CUST-0054,Norte,Organic Search
+CUST-0055,Centro,Social Media
+CUST-0056,Norte,Referral
+CUST-0057,Centro,Referral
+CUST-0058,Norte,Paid Ads
+CUST-0059,Norte,Referral
+CUST-0060,Norte,Paid Ads
+CUST-0061,Centro,Organic Search
+CUST-0062,Sur,Organic Search
+CUST-0063,Patagonia,Paid Ads
+CUST-0064,Centro,Paid Ads
+CUST-0065,Centro,Referral
+CUST-0066,Centro,Organic Search
+CUST-0067,Centro,Paid Ads
+CUST-0068,Norte,Paid Ads
+CUST-0069,Norte,Social Media
+CUST-0070,Centro,Organic Search
+CUST-0071,Sur,Direct / Unknown
+CUST-0072,Centro,Referral
+CUST-0073,Centro,Organic Search
+CUST-0074,Centro,Organic Search
+CUST-0075,Centro,Paid Ads
+CUST-0076,Norte,Referral
+CUST-0077,Centro,Paid Ads
+CUST-0078,Centro,Paid Ads
+CUST-0079,Sur,Referral
+CUST-0080,Norte,Organic Search
+CUST-0081,Sur,Organic Search
+CUST-0082,Centro,Organic Search
+CUST-0083,Centro,Paid Ads
+CUST-0084,Centro,Organic Search
+CUST-0085,Patagonia,Organic Search
+CUST-0086,Norte,Direct / Unknown
+CUST-0087,Centro,Paid Ads
+CUST-0088,Norte,Organic Search
+CUST-0089,Norte,Social Media
+CUST-0090,Patagonia,Paid Ads
+CUST-0091,Norte,Paid Ads
+CUST-0092,Centro,Organic Search
+CUST-0093,Centro,Paid Ads
+CUST-0094,Centro,Organic Search
+CUST-0095,Norte,Referral
+CUST-0096,Sur,Paid Ads
+CUST-0097,Centro,Referral
+CUST-0098,Centro,Referral
+CUST-0099,Sur,Paid Ads
+CUST-0100,Centro,Social Media
+CUST-0101,Centro,Organic Search
+CUST-0102,Centro,Organic Search
+CUST-0103,Centro,Paid Ads
+CUST-0104,Norte,Organic Search
+CUST-0105,Patagonia,Paid Ads
+CUST-0106,Centro,Organic Search
+CUST-0107,Norte,Paid Ads
+CUST-0108,Norte,Organic Search
+CUST-0109,Patagonia,Referral
+CUST-0110,Centro,Paid Ads
+CUST-0111,Sur,Social Media
+CUST-0112,Patagonia,Paid Ads
+CUST-0113,Sur,Referral
+CUST-0114,Centro,Referral
+CUST-0115,Patagonia,Paid Ads
+CUST-0116,Sur,Paid Ads
+CUST-0117,Norte,Organic Search
+CUST-0118,Sur,Paid Ads
+CUST-0119,Sur,Paid Ads
+CUST-0120,Centro,Referral
+CUST-0121,Norte,Paid Ads
+CUST-0122,Sur,Paid Ads
+CUST-0123,Sur,Organic Search
+CUST-0124,Centro,Organic Search
+CUST-0125,Centro,Organic Search
+CUST-0126,Centro,Organic Search
+CUST-0127,Norte,Referral
+CUST-0128,Centro,Referral
+CUST-0129,Centro,Organic Search
+CUST-0130,Centro,Referral
+CUST-0131,Centro,Referral
+CUST-0132,Centro,Paid Ads
+CUST-0133,Norte,Organic Search
+CUST-0134,Patagonia,Organic Search
+CUST-0135,Norte,Organic Search
+CUST-0136,Centro,Referral
+CUST-0137,Centro,Referral
+CUST-0138,Norte,Paid Ads
+CUST-0139,Sur,Referral
+CUST-0140,Norte,Social Media
+CUST-0141,Centro,Paid Ads
+CUST-0142,Norte,Paid Ads
+CUST-0143,Sur,Paid Ads
+CUST-0144,Sur,Paid Ads
+CUST-0145,Centro,Paid Ads
+CUST-0146,Centro,Referral
+CUST-0147,Patagonia,Referral
+CUST-0148,Centro,Paid Ads
+CUST-0149,Centro,Paid Ads
+CUST-0150,Sur,Social Media
+CUST-0151,Norte,Organic Search
+CUST-0152,Sur,Social Media
+CUST-0153,Norte,Organic Search
+CUST-0154,Sur,Organic Search
+CUST-0155,Centro,Social Media
+CUST-0156,Centro,Referral
+CUST-0157,Patagonia,Social Media
+CUST-0158,Patagonia,Organic Search
+CUST-0159,Norte,Organic Search
+CUST-0160,Patagonia,Paid Ads
+CUST-0161,Centro,Paid Ads
+CUST-0162,Patagonia,Organic Search
+CUST-0163,Centro,Referral
+CUST-0164,Centro,Paid Ads
+CUST-0165,Centro,Paid Ads
+CUST-0166,Centro,Paid Ads
+CUST-0167,Centro,Paid Ads
+CUST-0168,Centro,Paid Ads
+CUST-0169,Norte,Paid Ads
+CUST-0170,Sur,Referral
+CUST-0171,Sur,Paid Ads
+CUST-0172,Sur,Social Media
+CUST-0173,Centro,Referral
+CUST-0174,Centro,Paid Ads
+CUST-0175,Norte,Referral
+CUST-0176,Centro,Paid Ads
+CUST-0177,Sur,Referral
+CUST-0178,Sur,Organic Search
+CUST-0179,Sur,Referral
+CUST-0180,Centro,Organic Search
+CUST-0181,Patagonia,Organic Search
+CUST-0182,Centro,Organic Search
+CUST-0183,Norte,Paid Ads
+CUST-0184,Norte,Paid Ads
+CUST-0185,Norte,Paid Ads
+CUST-0186,Norte,Referral
+CUST-0187,Norte,Social Media
+CUST-0188,Patagonia,Paid Ads
+CUST-0189,Sur,Direct / Unknown
+CUST-0190,Patagonia,Paid Ads
+CUST-0191,Centro,Paid Ads
+CUST-0192,Centro,Organic Search
+CUST-0193,Centro,Referral
+CUST-0194,Centro,Referral
+CUST-0195,Centro,Referral
+CUST-0196,Sur,Organic Search
+CUST-0197,Norte,Direct / Unknown
+CUST-0198,Sur,Referral
+CUST-0199,Norte,Social Media
+CUST-0200,Centro,Referral
+CUST-0201,Centro,Direct / Unknown
+CUST-0202,Norte,Organic Search
+CUST-0203,Centro,Referral
+CUST-0204,Norte,Referral
+CUST-0205,Sur,Organic Search
+CUST-0206,Centro,Organic Search
+CUST-0207,Centro,Paid Ads
+CUST-0208,Centro,Social Media
+CUST-0209,Centro,Referral
+CUST-0210,Centro,Referral
+CUST-0211,Patagonia,Direct / Unknown
+CUST-0212,Sur,Organic Search
+CUST-0213,Centro,Organic Search
+CUST-0214,Centro,Organic Search
+CUST-0215,Norte,Paid Ads
+CUST-0216,Centro,Referral
+CUST-0217,Sur,Referral
+CUST-0218,Centro,Organic Search
+CUST-0219,Centro,Referral
+CUST-0220,Sur,Organic Search
+CUST-0221,Norte,Social Media
+CUST-0222,Centro,Social Media
+CUST-0223,Sur,Organic Search
+CUST-0224,Norte,Organic Search
+CUST-0225,Sur,Paid Ads
+CUST-0226,Patagonia,Paid Ads
+CUST-0227,Norte,Paid Ads
+CUST-0228,Centro,Referral
+CUST-0229,Centro,Paid Ads
+CUST-0230,Centro,Social Media
+CUST-0231,Centro,Paid Ads
+CUST-0232,Centro,Organic Search
+CUST-0233,Centro,Referral
+CUST-0234,Centro,Paid Ads
+CUST-0235,Norte,Paid Ads
+CUST-0236,Patagonia,Paid Ads
+CUST-0237,Sur,Organic Search
+CUST-0238,Norte,Paid Ads
+CUST-0239,Centro,Paid Ads
+CUST-0240,Patagonia,Referral
+CUST-0241,Centro,Organic Search
+CUST-0242,Centro,Social Media
+CUST-0243,Sur,Organic Search
+CUST-0244,Norte,Direct / Unknown
+CUST-0245,Centro,Paid Ads
+CUST-0246,Centro,Organic Search
+CUST-0247,Norte,Referral
+CUST-0248,Sur,Social Media
+CUST-0249,Patagonia,Direct / Unknown
+CUST-0250,Centro,Paid Ads
+CUST-0251,Norte,Social Media
+CUST-0252,Centro,Organic Search
+CUST-0253,Centro,Organic Search
+CUST-0254,Centro,Organic Search
+CUST-0255,Norte,Organic Search
+CUST-0256,Centro,Organic Search
+CUST-0257,Sur,Direct / Unknown
+CUST-0258,Centro,Paid Ads
+CUST-0259,Centro,Paid Ads
+CUST-0260,Centro,Social Media
+CUST-0261,Sur,Organic Search
+CUST-0262,Sur,Organic Search
+CUST-0263,Sur,Paid Ads
+CUST-0264,Centro,Organic Search
+CUST-0265,Centro,Social Media
+CUST-0266,Sur,Referral
+CUST-0267,Centro,Organic Search
+CUST-0268,Norte,Organic Search
+CUST-0269,Norte,Social Media
+CUST-0270,Centro,Organic Search
+CUST-0271,Centro,Paid Ads
+CUST-0272,Sur,Social Media
+CUST-0273,Sur,Organic Search
+CUST-0274,Sur,Paid Ads
+CUST-0275,Centro,Paid Ads
+CUST-0276,Sur,Paid Ads
+CUST-0277,Norte,Referral
+CUST-0278,Sur,Organic Search
+CUST-0279,Norte,Referral
+CUST-0280,Norte,Paid Ads
+CUST-0281,Sur,Referral
+CUST-0282,Centro,Paid Ads
+CUST-0283,Centro,Organic Search
+CUST-0284,Norte,Social Media
+CUST-0285,Norte,Paid Ads
+CUST-0286,Norte,Paid Ads
+CUST-0287,Centro,Social Media
+CUST-0288,Centro,Paid Ads
+CUST-0289,Norte,Organic Search
+CUST-0290,Patagonia,Referral
+CUST-0291,Centro,Referral
+CUST-0292,Centro,Organic Search
+CUST-0293,Sur,Paid Ads
+CUST-0294,Patagonia,Organic Search
+CUST-0295,Sur,Social Media
+CUST-0296,Centro,Paid Ads
+CUST-0297,Centro,Paid Ads
+CUST-0298,Sur,Organic Search
+CUST-0299,Centro,Paid Ads
+CUST-0300,Centro,Paid Ads
+CUST-0301,Centro,Direct / Unknown
+CUST-0302,Centro,Organic Search
+CUST-0303,Norte,Organic Search
+CUST-0304,Centro,Paid Ads
+CUST-0305,Norte,Organic Search
+CUST-0306,Centro,Organic Search
+CUST-0307,Patagonia,Paid Ads
+CUST-0308,Centro,Paid Ads
+CUST-0309,Centro,Paid Ads
+CUST-0310,Centro,Paid Ads
+CUST-0311,Centro,Organic Search
+CUST-0312,Centro,Paid Ads
+CUST-0313,Sur,Paid Ads
+CUST-0314,Centro,Paid Ads
+CUST-0315,Centro,Paid Ads
+CUST-0316,Centro,Organic Search
+CUST-0317,Centro,Paid Ads
+CUST-0318,Centro,Paid Ads
+CUST-0319,Sur,Paid Ads
+CUST-0320,Patagonia,Organic Search
+CUST-0321,Centro,Paid Ads
+CUST-0322,Norte,Paid Ads
+CUST-0323,Sur,Paid Ads
+CUST-0324,Centro,Organic Search
+CUST-0325,Sur,Paid Ads
+CUST-0326,Centro,Social Media
+CUST-0327,Centro,Paid Ads
+CUST-0328,Sur,Paid Ads
+CUST-0329,Centro,Paid Ads
+CUST-0330,Norte,Direct / Unknown
+CUST-0331,Norte,Paid Ads
+CUST-0332,Patagonia,Paid Ads
+CUST-0333,Norte,Paid Ads
+CUST-0334,Norte,Organic Search
+CUST-0335,Centro,Social Media
+CUST-0336,Centro,Organic Search
+CUST-0337,Sur,Paid Ads
+CUST-0338,Sur,Paid Ads
+CUST-0339,Centro,Social Media
+CUST-0340,Norte,Social Media
+CUST-0341,Sur,Paid Ads
+CUST-0342,Norte,Social Media
+CUST-0343,Centro,Social Media
+CUST-0344,Patagonia,Organic Search
+CUST-0345,Patagonia,Paid Ads
+CUST-0346,Centro,Organic Search
+CUST-0347,Sur,Organic Search
+CUST-0348,Centro,Paid Ads
+CUST-0349,Centro,Paid Ads
+CUST-0350,Centro,Paid Ads
+CUST-0351,Norte,Paid Ads
+CUST-0352,Centro,Paid Ads
+CUST-0353,Centro,Social Media
+CUST-0354,Centro,Paid Ads
+CUST-0355,Centro,Paid Ads
+CUST-0356,Sur,Referral
+CUST-0357,Norte,Paid Ads
+CUST-0358,Norte,Organic Search
+CUST-0359,Centro,Paid Ads
+CUST-0360,Centro,Paid Ads
+CUST-0361,Sur,Organic Search
+CUST-0362,Centro,Paid Ads
+CUST-0363,Sur,Paid Ads
+CUST-0364,Norte,Organic Search
+CUST-0365,Patagonia,Paid Ads
+CUST-0366,Patagonia,Paid Ads
+CUST-0367,Patagonia,Paid Ads
+CUST-0368,Norte,Organic Search
+CUST-0369,Patagonia,Organic Search
+CUST-0370,Centro,Paid Ads
+CUST-0371,Centro,Social Media
+CUST-0372,Centro,Paid Ads
+CUST-0373,Patagonia,Paid Ads
+CUST-0374,Norte,Social Media
+CUST-0375,Sur,Paid Ads
+CUST-0376,Centro,Referral
+CUST-0377,Centro,Social Media
+CUST-0378,Centro,Organic Search
+CUST-0379,Sur,Organic Search
+CUST-0380,Norte,Referral
+CUST-0381,Sur,Organic Search
+CUST-0382,Norte,Referral
+CUST-0383,Sur,Paid Ads
+CUST-0384,Patagonia,Paid Ads
+CUST-0385,Sur,Social Media
+CUST-0386,Norte,Organic Search
+CUST-0387,Centro,Organic Search
+CUST-0388,Centro,Organic Search
+CUST-0389,Norte,Paid Ads
+CUST-0390,Sur,Paid Ads
+CUST-0391,Norte,Referral
+CUST-0392,Centro,Referral
+CUST-0393,Centro,Social Media
+CUST-0394,Norte,Paid Ads
+CUST-0395,Centro,Social Media
+CUST-0396,Sur,Organic Search
+CUST-0397,Sur,Paid Ads
+CUST-0398,Centro,Social Media
+CUST-0399,Centro,Social Media
+CUST-0400,Centro,Paid Ads
+CUST-0401,Centro,Organic Search
+CUST-0402,Norte,Paid Ads
+CUST-0403,Norte,Paid Ads
+CUST-0404,Centro,Paid Ads
+CUST-0405,Centro,Social Media
+CUST-0406,Centro,Paid Ads
+CUST-0407,Centro,Paid Ads
+CUST-0408,Centro,Paid Ads
+CUST-0409,Norte,Organic Search
+CUST-0410,Centro,Paid Ads
+CUST-0411,Sur,Social Media
+CUST-0412,Sur,Paid Ads
+CUST-0413,Norte,Organic Search
+CUST-0414,Centro,Social Media
+CUST-0415,Centro,Organic Search
+CUST-0416,Centro,Paid Ads
+CUST-0417,Norte,Referral
+CUST-0418,Sur,Organic Search
+CUST-0419,Patagonia,Organic Search
+CUST-0420,Norte,Paid Ads
+CUST-0421,Norte,Social Media
+CUST-0422,Norte,Paid Ads
+CUST-0423,Centro,Organic Search
+CUST-0424,Sur,Paid Ads
+CUST-0425,Centro,Social Media
+CUST-0426,Centro,Organic Search
+CUST-0427,Centro,Paid Ads
+CUST-0428,Centro,Organic Search
+CUST-0429,Patagonia,Referral
+CUST-0430,Norte,Referral
+CUST-0431,Centro,Social Media
+CUST-0432,Norte,Referral
+CUST-0433,Centro,Referral
+CUST-0434,Sur,Direct / Unknown
+CUST-0435,Sur,Organic Search
+CUST-0436,Patagonia,Social Media
+CUST-0437,Centro,Referral
+CUST-0438,Centro,Organic Search
+CUST-0439,Sur,Social Media
+CUST-0440,Sur,Paid Ads
+CUST-0441,Centro,Organic Search
+CUST-0442,Centro,Paid Ads
+CUST-0443,Sur,Paid Ads
+CUST-0444,Norte,Direct / Unknown
+CUST-0445,Centro,Paid Ads
+CUST-0446,Centro,Paid Ads
+CUST-0447,Centro,Organic Search
+CUST-0448,Patagonia,Referral
+CUST-0449,Centro,Social Media
+CUST-0450,Patagonia,Organic Search
+CUST-0451,Centro,Direct / Unknown
+CUST-0452,Centro,Paid Ads
+CUST-0453,Patagonia,Organic Search
+CUST-0454,Norte,Referral
+CUST-0455,Norte,Organic Search
+CUST-0456,Norte,Social Media
+CUST-0457,Sur,Referral
+CUST-0458,Sur,Social Media
+CUST-0459,Sur,Social Media
+CUST-0460,Sur,Organic Search
+CUST-0461,Sur,Paid Ads
+CUST-0462,Norte,Social Media
+CUST-0463,Centro,Organic Search
+CUST-0464,Centro,Referral
+CUST-0465,Centro,Paid Ads
+CUST-0466,Centro,Referral
+CUST-0467,Norte,Organic Search
+CUST-0468,Patagonia,Direct / Unknown
+CUST-0469,Centro,Paid Ads
+CUST-0470,Centro,Social Media
+CUST-0471,Patagonia,Referral
+CUST-0472,Centro,Paid Ads
+CUST-0473,Norte,Referral
+CUST-0474,Patagonia,Paid Ads
+CUST-0475,Centro,Social Media
+CUST-0476,Centro,Organic Search
+CUST-0477,Norte,Social Media
+CUST-0478,Centro,Organic Search
+CUST-0479,Norte,Referral
+CUST-0480,Centro,Organic Search
+CUST-0481,Centro,Referral
+CUST-0482,Norte,Organic Search
+CUST-0483,Centro,Organic Search
+CUST-0484,Patagonia,Referral
+CUST-0485,Sur,Referral
+CUST-0486,Patagonia,Referral
+CUST-0487,Norte,Paid Ads
+CUST-0488,Centro,Paid Ads
+CUST-0489,Centro,Paid Ads
+CUST-0490,Norte,Social Media
+CUST-0491,Sur,Referral
+CUST-0492,Norte,Paid Ads
+CUST-0493,Norte,Paid Ads
+CUST-0494,Centro,Paid Ads
+CUST-0495,Patagonia,Social Media
+CUST-0496,Norte,Paid Ads
+CUST-0497,Sur,Paid Ads
+CUST-0498,Centro,Paid Ads
+CUST-0499,Centro,Paid Ads
+CUST-0500,Norte,Organic Search
+CUST-0501,Centro,Referral
+CUST-0502,Centro,Paid Ads
+CUST-0503,Centro,Organic Search
+CUST-0504,Sur,Paid Ads
+CUST-0505,Patagonia,Paid Ads
+CUST-0506,Centro,Organic Search
+CUST-0507,Norte,Social Media
+CUST-0508,Centro,Paid Ads
+CUST-0509,Centro,Social Media
+CUST-0510,Sur,Social Media
+CUST-0511,Sur,Social Media
+CUST-0512,Centro,Social Media
+CUST-0513,Centro,Organic Search
+CUST-0514,Norte,Direct / Unknown
+CUST-0515,Centro,Social Media
+CUST-0516,Centro,Organic Search
+CUST-0517,Centro,Paid Ads
+CUST-0518,Norte,Referral
+CUST-0519,Centro,Referral
+CUST-0520,Centro,Social Media
+CUST-0521,Centro,Organic Search
+CUST-0522,Centro,Paid Ads
+CUST-0523,Centro,Referral
+CUST-0524,Centro,Referral
+CUST-0525,Centro,Paid Ads
+CUST-0526,Sur,Organic Search
+CUST-0527,Centro,Paid Ads
+CUST-0528,Centro,Paid Ads
+CUST-0529,Centro,Paid Ads
+CUST-0530,Centro,Social Media
+CUST-0531,Patagonia,Paid Ads
+CUST-0532,Norte,Paid Ads
+CUST-0533,Patagonia,Organic Search
+CUST-0534,Norte,Direct / Unknown
+CUST-0535,Centro,Paid Ads
+CUST-0536,Centro,Social Media
+CUST-0537,Norte,Organic Search
+CUST-0538,Norte,Paid Ads
+CUST-0539,Centro,Paid Ads
+CUST-0540,Sur,Paid Ads
+CUST-0541,Centro,Social Media
+CUST-0542,Norte,Organic Search
+CUST-0543,Norte,Paid Ads
+CUST-0544,Centro,Paid Ads
+CUST-0545,Centro,Organic Search
+CUST-0546,Norte,Referral
+CUST-0547,Sur,Organic Search
+CUST-0548,Norte,Organic Search
+CUST-0549,Centro,Referral
+CUST-0550,Centro,Paid Ads
+CUST-0551,Norte,Paid Ads
+CUST-0552,Norte,Social Media
+CUST-0553,Centro,Referral
+CUST-0554,Norte,Paid Ads
+CUST-0555,Norte,Organic Search
+CUST-0556,Patagonia,Organic Search
+CUST-0557,Norte,Paid Ads
+CUST-0558,Norte,Social Media
+CUST-0559,Norte,Paid Ads
+CUST-0560,Sur,Direct / Unknown
+CUST-0561,Sur,Referral
+CUST-0562,Sur,Organic Search
+CUST-0563,Norte,Social Media
+CUST-0564,Centro,Social Media
+CUST-0565,Centro,Paid Ads
+CUST-0566,Sur,Paid Ads
+CUST-0567,Sur,Organic Search
+CUST-0568,Centro,Direct / Unknown
+CUST-0569,Centro,Paid Ads
+CUST-0570,Centro,Organic Search
+CUST-0571,Centro,Social Media
+CUST-0572,Centro,Referral
+CUST-0573,Centro,Organic Search
+CUST-0574,Patagonia,Paid Ads
+CUST-0575,Centro,Organic Search
+CUST-0576,Sur,Paid Ads
+CUST-0577,Centro,Organic Search
+CUST-0578,Sur,Paid Ads
+CUST-0579,Centro,Social Media
+CUST-0580,Patagonia,Organic Search
+CUST-0581,Centro,Paid Ads
+CUST-0582,Sur,Social Media
+CUST-0583,Norte,Paid Ads
+CUST-0584,Norte,Paid Ads
+CUST-0585,Norte,Organic Search
+CUST-0586,Centro,Paid Ads
+CUST-0587,Centro,Referral
+CUST-0588,Norte,Social Media
+CUST-0589,Centro,Paid Ads
+CUST-0590,Norte,Referral
+CUST-0591,Sur,Paid Ads
+CUST-0592,Sur,Paid Ads
+CUST-0593,Sur,Paid Ads
+CUST-0594,Centro,Organic Search
+CUST-0595,Patagonia,Organic Search
+CUST-0596,Norte,Referral
+CUST-0597,Centro,Organic Search
+CUST-0598,Centro,Paid Ads
+CUST-0599,Sur,Paid Ads
+CUST-0600,Centro,Paid Ads
+CUST-0601,Centro,Paid Ads
+CUST-0602,Centro,Organic Search
+CUST-0603,Centro,Direct / Unknown
+CUST-0604,Sur,Paid Ads
+CUST-0605,Centro,Organic Search
+CUST-0606,Centro,Organic Search
+CUST-0607,Sur,Paid Ads
+CUST-0608,Patagonia,Social Media
+CUST-0609,Centro,Organic Search
+CUST-0610,Norte,Organic Search
+CUST-0611,Patagonia,Referral
+CUST-0612,Centro,Paid Ads
+CUST-0613,Patagonia,Referral
+CUST-0614,Patagonia,Paid Ads
+CUST-0615,Centro,Organic Search
+CUST-0616,Centro,Organic Search
+CUST-0617,Centro,Organic Search
+CUST-0618,Centro,Direct / Unknown
+CUST-0619,Centro,Paid Ads
+CUST-0620,Centro,Paid Ads
+CUST-0621,Patagonia,Organic Search
+CUST-0622,Norte,Organic Search
+CUST-0623,Norte,Referral
+CUST-0624,Centro,Referral
+CUST-0625,Sur,Referral
+CUST-0626,Patagonia,Organic Search
+CUST-0627,Centro,Paid Ads
+CUST-0628,Patagonia,Social Media
+CUST-0629,Sur,Referral
+CUST-0630,Norte,Social Media
+CUST-0631,Patagonia,Organic Search
+CUST-0632,Norte,Paid Ads
+CUST-0633,Centro,Referral
+CUST-0634,Sur,Direct / Unknown
+CUST-0635,Centro,Referral
+CUST-0636,Sur,Organic Search
+CUST-0637,Norte,Referral
+CUST-0638,Centro,Organic Search
+CUST-0639,Centro,Paid Ads
+CUST-0640,Centro,Paid Ads
+CUST-0641,Centro,Organic Search
+CUST-0642,Patagonia,Organic Search
+CUST-0643,Sur,Social Media
+CUST-0644,Centro,Organic Search
+CUST-0645,Centro,Organic Search
+CUST-0646,Centro,Organic Search
+CUST-0647,Centro,Social Media
+CUST-0648,Centro,Paid Ads
+CUST-0649,Sur,Organic Search
+CUST-0650,Sur,Paid Ads
+CUST-0651,Centro,Paid Ads
+CUST-0652,Centro,Organic Search
+CUST-0653,Centro,Paid Ads
+CUST-0654,Centro,Referral
+CUST-0655,Centro,Organic Search
+CUST-0656,Patagonia,Organic Search
+CUST-0657,Sur,Social Media
+CUST-0658,Centro,Social Media
+CUST-0659,Centro,Paid Ads
+CUST-0660,Centro,Paid Ads
+CUST-0661,Centro,Social Media
+CUST-0662,Centro,Paid Ads
+CUST-0663,Sur,Direct / Unknown
+CUST-0664,Sur,Organic Search
+CUST-0665,Sur,Paid Ads
+CUST-0666,Centro,Organic Search
+CUST-0667,Centro,Paid Ads
+CUST-0668,Sur,Organic Search
+CUST-0669,Centro,Referral
+CUST-0670,Centro,Paid Ads
+CUST-0671,Centro,Organic Search
+CUST-0672,Sur,Organic Search
+CUST-0673,Patagonia,Social Media
+CUST-0674,Norte,Social Media
+CUST-0675,Centro,Paid Ads
+CUST-0676,Sur,Social Media
+CUST-0677,Centro,Social Media
+CUST-0678,Centro,Organic Search
+CUST-0679,Centro,Direct / Unknown
+CUST-0680,Centro,Organic Search
+CUST-0681,Norte,Organic Search
+CUST-0682,Centro,Social Media
+CUST-0683,Centro,Organic Search
+CUST-0684,Sur,Referral
+CUST-0685,Centro,Paid Ads
+CUST-0686,Norte,Organic Search
+CUST-0687,Centro,Organic Search
+CUST-0688,Sur,Paid Ads
+CUST-0689,Centro,Social Media
+CUST-0690,Centro,Paid Ads
+CUST-0691,Centro,Referral
+CUST-0692,Centro,Referral
+CUST-0693,Centro,Referral
+CUST-0694,Centro,Organic Search
+CUST-0695,Norte,Social Media
+CUST-0696,Norte,Organic Search
+CUST-0697,Norte,Organic Search
+CUST-0698,Centro,Social Media
+CUST-0699,Centro,Organic Search
+CUST-0700,Centro,Referral
+CUST-0701,Sur,Organic Search
+CUST-0702,Sur,Paid Ads
+CUST-0703,Sur,Organic Search
+CUST-0704,Centro,Referral
+CUST-0705,Norte,Paid Ads
+CUST-0706,Centro,Referral
+CUST-0707,Centro,Organic Search
+CUST-0708,Norte,Paid Ads
+CUST-0709,Centro,Paid Ads
+CUST-0710,Norte,Paid Ads
+CUST-0711,Centro,Paid Ads
+CUST-0712,Norte,Paid Ads
+CUST-0713,Centro,Paid Ads
+CUST-0714,Norte,Organic Search
+CUST-0715,Norte,Social Media
+CUST-0716,Centro,Referral
+CUST-0717,Centro,Organic Search
+CUST-0718,Centro,Organic Search
+CUST-0719,Norte,Referral
+CUST-0720,Centro,Social Media
+CUST-0721,Patagonia,Paid Ads
+CUST-0722,Centro,Paid Ads
+CUST-0723,Centro,Direct / Unknown
+CUST-0724,Centro,Organic Search
+CUST-0725,Centro,Organic Search
+CUST-0726,Sur,Paid Ads
+CUST-0727,Sur,Social Media
+CUST-0728,Norte,Referral
+CUST-0729,Sur,Organic Search
+CUST-0730,Centro,Paid Ads
+CUST-0731,Centro,Paid Ads
+CUST-0732,Patagonia,Social Media
+CUST-0733,Centro,Referral
+CUST-0734,Sur,Organic Search
+CUST-0735,Centro,Referral
+CUST-0736,Norte,Paid Ads
+CUST-0737,Centro,Social Media
+CUST-0738,Norte,Organic Search
+CUST-0739,Centro,Paid Ads
+CUST-0740,Centro,Organic Search
+CUST-0741,Centro,Referral
+CUST-0742,Centro,Organic Search
+CUST-0743,Centro,Social Media
+CUST-0744,Centro,Referral
+CUST-0745,Centro,Paid Ads
+CUST-0746,Centro,Paid Ads
+CUST-0747,Centro,Referral
+CUST-0748,Patagonia,Paid Ads
+CUST-0749,Sur,Paid Ads
+CUST-0750,Centro,Organic Search
+CUST-0751,Centro,Social Media
+CUST-0752,Sur,Organic Search
+CUST-0753,Sur,Paid Ads
+CUST-0754,Centro,Social Media
+CUST-0755,Norte,Organic Search
+CUST-0756,Patagonia,Paid Ads
+CUST-0757,Sur,Organic Search
+CUST-0758,Centro,Social Media
+CUST-0759,Centro,Organic Search
+CUST-0760,Sur,Organic Search
+CUST-0761,Norte,Referral
+CUST-0762,Patagonia,Social Media
+CUST-0763,Sur,Social Media
+CUST-0764,Norte,Social Media
+CUST-0765,Centro,Paid Ads
+CUST-0766,Norte,Referral
+CUST-0767,Patagonia,Referral
+CUST-0768,Sur,Organic Search
+CUST-0769,Centro,Paid Ads
+CUST-0770,Norte,Paid Ads
+CUST-0771,Norte,Paid Ads
+CUST-0772,Norte,Referral
+CUST-0773,Sur,Paid Ads
+CUST-0774,Centro,Organic Search
+CUST-0775,Centro,Organic Search
+CUST-0776,Centro,Organic Search
+CUST-0777,Norte,Referral
+CUST-0778,Norte,Paid Ads
+CUST-0779,Centro,Social Media
+CUST-0780,Sur,Referral
+CUST-0781,Norte,Organic Search
+CUST-0782,Centro,Paid Ads
+CUST-0783,Sur,Paid Ads
+CUST-0784,Centro,Social Media
+CUST-0785,Centro,Organic Search
+CUST-0786,Patagonia,Paid Ads
+CUST-0787,Sur,Social Media
+CUST-0788,Centro,Social Media
+CUST-0789,Centro,Paid Ads
+CUST-0790,Centro,Paid Ads
+CUST-0791,Centro,Referral
+CUST-0792,Centro,Referral
+CUST-0793,Norte,Organic Search
+CUST-0794,Norte,Paid Ads
+CUST-0795,Sur,Social Media
+CUST-0796,Patagonia,Paid Ads
+CUST-0797,Centro,Direct / Unknown
+CUST-0798,Norte,Paid Ads
+CUST-0799,Norte,Organic Search
+CUST-0800,Sur,Organic Search
+CUST-0801,Sur,Paid Ads
+CUST-0802,Norte,Paid Ads
+CUST-0803,Centro,Organic Search
+CUST-0804,Norte,Paid Ads
+CUST-0805,Norte,Paid Ads
+CUST-0806,Sur,Paid Ads
+CUST-0807,Norte,Organic Search
+CUST-0808,Norte,Referral
+CUST-0809,Centro,Organic Search
+CUST-0810,Sur,Paid Ads
+CUST-0811,Sur,Organic Search
+CUST-0812,Norte,Social Media
+CUST-0813,Centro,Paid Ads
+CUST-0814,Centro,Paid Ads
+CUST-0815,Norte,Referral
+CUST-0816,Norte,Referral
+CUST-0817,Sur,Social Media
+CUST-0818,Norte,Referral
+CUST-0819,Centro,Paid Ads
+CUST-0820,Norte,Social Media
+CUST-0821,Centro,Paid Ads
+CUST-0822,Centro,Paid Ads
+CUST-0823,Centro,Organic Search
+CUST-0824,Centro,Paid Ads
+CUST-0825,Sur,Organic Search
+CUST-0826,Norte,Direct / Unknown
+CUST-0827,Sur,Social Media
+CUST-0828,Sur,Paid Ads
+CUST-0829,Patagonia,Direct / Unknown
+CUST-0830,Centro,Organic Search
+CUST-0831,Norte,Paid Ads
+CUST-0832,Sur,Organic Search
+CUST-0833,Centro,Paid Ads
+CUST-0834,Norte,Organic Search
+CUST-0835,Centro,Organic Search
+CUST-0836,Centro,Paid Ads
+CUST-0837,Centro,Organic Search
+CUST-0838,Sur,Paid Ads
+CUST-0839,Centro,Paid Ads
+CUST-0840,Norte,Organic Search
+CUST-0841,Patagonia,Paid Ads
+CUST-0842,Norte,Social Media
+CUST-0843,Norte,Paid Ads
+CUST-0844,Centro,Paid Ads
+CUST-0845,Centro,Paid Ads
+CUST-0846,Patagonia,Paid Ads
+CUST-0847,Sur,Social Media
+CUST-0848,Norte,Paid Ads
+CUST-0849,Patagonia,Organic Search
+CUST-0850,Centro,Paid Ads
+CUST-0851,Centro,Organic Search
+CUST-0852,Centro,Paid Ads
+CUST-0853,Centro,Direct / Unknown
+CUST-0854,Patagonia,Paid Ads
+CUST-0855,Sur,Paid Ads
+CUST-0856,Centro,Social Media
+CUST-0857,Sur,Paid Ads
+CUST-0858,Centro,Organic Search
+CUST-0859,Centro,Social Media
+CUST-0860,Norte,Direct / Unknown
+CUST-0861,Centro,Organic Search
+CUST-0862,Sur,Paid Ads
+CUST-0863,Norte,Organic Search
+CUST-0864,Norte,Organic Search
+CUST-0865,Sur,Paid Ads
+CUST-0866,Norte,Paid Ads
+CUST-0867,Norte,Paid Ads
+CUST-0868,Centro,Organic Search
+CUST-0869,Centro,Paid Ads
+CUST-0870,Centro,Paid Ads
+CUST-0871,Centro,Direct / Unknown
+CUST-0872,Patagonia,Organic Search
+CUST-0873,Norte,Organic Search
+CUST-0874,Norte,Organic Search
+CUST-0875,Centro,Paid Ads
+CUST-0876,Centro,Paid Ads
+CUST-0877,Norte,Social Media
+CUST-0878,Centro,Referral
+CUST-0879,Centro,Direct / Unknown
+CUST-0880,Sur,Social Media
+CUST-0881,Sur,Organic Search
+CUST-0882,Patagonia,Organic Search
+CUST-0883,Norte,Referral
+CUST-0884,Norte,Organic Search
+CUST-0885,Centro,Referral
+CUST-0886,Centro,Social Media
+CUST-0887,Norte,Referral
+CUST-0888,Centro,Paid Ads
+CUST-0889,Sur,Paid Ads
+CUST-0890,Norte,Organic Search
+CUST-0891,Centro,Organic Search
+CUST-0892,Norte,Direct / Unknown
+CUST-0893,Norte,Paid Ads
+CUST-0894,Norte,Paid Ads
+CUST-0895,Patagonia,Organic Search
+CUST-0896,Norte,Referral
+CUST-0897,Centro,Referral
+CUST-0898,Centro,Paid Ads
+CUST-0899,Norte,Organic Search
+CUST-0900,Centro,Organic Search
+CUST-0901,Norte,Organic Search
+CUST-0902,Norte,Referral
+CUST-0903,Centro,Organic Search
+CUST-0904,Centro,Organic Search
+CUST-0905,Centro,Direct / Unknown
+CUST-0906,Norte,Referral
+CUST-0907,Centro,Organic Search
+CUST-0908,Patagonia,Organic Search
+CUST-0909,Sur,Organic Search
+CUST-0910,Centro,Social Media
+CUST-0911,Sur,Organic Search
+CUST-0912,Norte,Organic Search
+CUST-0913,Patagonia,Paid Ads
+CUST-0914,Centro,Paid Ads
+CUST-0915,Centro,Paid Ads
+CUST-0916,Patagonia,Social Media
+CUST-0917,Centro,Social Media
+CUST-0918,Centro,Organic Search
+CUST-0919,Norte,Organic Search
+CUST-0920,Centro,Organic Search
+CUST-0921,Norte,Paid Ads
+CUST-0922,Sur,Paid Ads
+CUST-0923,Sur,Referral
+CUST-0924,Norte,Paid Ads
+CUST-0925,Centro,Paid Ads
+CUST-0926,Centro,Paid Ads
+CUST-0927,Patagonia,Organic Search
+CUST-0928,Norte,Paid Ads
+CUST-0929,Centro,Paid Ads
+CUST-0930,Centro,Organic Search
+CUST-0931,Sur,Paid Ads
+CUST-0932,Patagonia,Organic Search
+CUST-0933,Centro,Social Media
+CUST-0934,Centro,Organic Search
+CUST-0935,Norte,Organic Search
+CUST-0936,Centro,Paid Ads
+CUST-0937,Centro,Referral
+CUST-0938,Centro,Referral
+CUST-0939,Centro,Paid Ads
+CUST-0940,Norte,Referral
+CUST-0941,Centro,Organic Search
+CUST-0942,Sur,Organic Search
+CUST-0943,Norte,Organic Search
+CUST-0944,Patagonia,Paid Ads
+CUST-0945,Norte,Paid Ads
+CUST-0946,Patagonia,Social Media
+CUST-0947,Centro,Paid Ads
+CUST-0948,Centro,Referral
+CUST-0949,Norte,Referral
+CUST-0950,Centro,Paid Ads
+CUST-0951,Centro,Organic Search
+CUST-0952,Centro,Referral
+CUST-0953,Centro,Referral
+CUST-0954,Centro,Organic Search
+CUST-0955,Centro,Paid Ads
+CUST-0956,Centro,Direct / Unknown
+CUST-0957,Centro,Paid Ads
+CUST-0958,Sur,Organic Search
+CUST-0959,Norte,Paid Ads
+CUST-0960,Centro,Paid Ads
+CUST-0961,Centro,Organic Search
+CUST-0962,Centro,Paid Ads
+CUST-0963,Centro,Paid Ads
+CUST-0964,Centro,Paid Ads
+CUST-0965,Centro,Referral
+CUST-0966,Centro,Organic Search
+CUST-0967,Centro,Direct / Unknown
+CUST-0968,Centro,Paid Ads
+CUST-0969,Centro,Organic Search
+CUST-0970,Centro,Paid Ads
+CUST-0971,Centro,Organic Search
+CUST-0972,Norte,Paid Ads
+CUST-0973,Sur,Referral
+CUST-0974,Patagonia,Referral
+CUST-0975,Centro,Paid Ads
+CUST-0976,Centro,Organic Search
+CUST-0977,Centro,Referral
+CUST-0978,Centro,Direct / Unknown
+CUST-0979,Norte,Organic Search
+CUST-0980,Centro,Social Media
+CUST-0981,Patagonia,Direct / Unknown
+CUST-0982,Norte,Organic Search
+CUST-0983,Sur,Referral
+CUST-0984,Centro,Referral
+CUST-0985,Centro,Referral
+CUST-0986,Centro,Paid Ads
+CUST-0987,Norte,Paid Ads
+CUST-0988,Norte,Paid Ads
+CUST-0989,Sur,Paid Ads
+CUST-0990,Sur,Paid Ads
+CUST-0991,Sur,Direct / Unknown
+CUST-0992,Centro,Referral
+CUST-0993,Sur,Social Media
+CUST-0994,Norte,Referral
+CUST-0995,Centro,Social Media
+CUST-0996,Norte,Organic Search
+CUST-0997,Centro,Paid Ads
+CUST-0998,Centro,Paid Ads
+CUST-0999,Sur,Social Media
+CUST-1000,Norte,Referral
+CUST-1001,Sur,Organic Search
+CUST-1002,Patagonia,Paid Ads
+CUST-1003,Centro,Paid Ads
+CUST-1004,Centro,Paid Ads
+CUST-1005,Patagonia,Paid Ads
+CUST-1006,Norte,Direct / Unknown
+CUST-1007,Centro,Organic Search
+CUST-1008,Centro,Paid Ads
+CUST-1009,Centro,Direct / Unknown
+CUST-1010,Sur,Organic Search
+CUST-1011,Centro,Paid Ads
+CUST-1012,Norte,Organic Search
+CUST-1013,Sur,Paid Ads
+CUST-1014,Centro,Social Media
+CUST-1015,Sur,Organic Search
+CUST-1016,Centro,Paid Ads
+CUST-1017,Centro,Referral
+CUST-1018,Sur,Organic Search
+CUST-1019,Centro,Organic Search
+CUST-1020,Sur,Organic Search
+CUST-1021,Norte,Direct / Unknown
+CUST-1022,Centro,Direct / Unknown
+CUST-1023,Patagonia,Paid Ads
+CUST-1024,Centro,Social Media
+CUST-1025,Centro,Paid Ads
+CUST-1026,Patagonia,Organic Search
+CUST-1027,Sur,Referral
+CUST-1028,Norte,Social Media
+CUST-1029,Centro,Paid Ads
+CUST-1030,Sur,Organic Search
+CUST-1031,Norte,Referral
+CUST-1032,Centro,Social Media
+CUST-1033,Centro,Social Media
+CUST-1034,Sur,Social Media
+CUST-1035,Sur,Organic Search
+CUST-1036,Sur,Organic Search
+CUST-1037,Centro,Organic Search
+CUST-1038,Patagonia,Direct / Unknown
+CUST-1039,Patagonia,Organic Search
+CUST-1040,Centro,Social Media
+CUST-1041,Centro,Paid Ads
+CUST-1042,Patagonia,Social Media
+CUST-1043,Sur,Paid Ads
+CUST-1044,Patagonia,Referral
+CUST-1045,Patagonia,Paid Ads
+CUST-1046,Norte,Referral
+CUST-1047,Sur,Direct / Unknown
+CUST-1048,Norte,Paid Ads
+CUST-1049,Centro,Organic Search
+CUST-1050,Patagonia,Paid Ads
+CUST-1051,Patagonia,Paid Ads
+CUST-1052,Sur,Paid Ads
+CUST-1053,Centro,Organic Search
+CUST-1054,Patagonia,Referral
+CUST-1055,Centro,Organic Search
+CUST-1056,Sur,Organic Search
+CUST-1057,Centro,Social Media
+CUST-1058,Norte,Social Media
+CUST-1059,Centro,Organic Search
+CUST-1060,Centro,Organic Search
+CUST-1061,Sur,Paid Ads
+CUST-1062,Centro,Social Media
+CUST-1063,Centro,Paid Ads
+CUST-1064,Patagonia,Referral
+CUST-1065,Sur,Organic Search
+CUST-1066,Sur,Organic Search
+CUST-1067,Centro,Paid Ads
+CUST-1068,Sur,Paid Ads
+CUST-1069,Centro,Direct / Unknown
+CUST-1070,Centro,Direct / Unknown
+CUST-1071,Centro,Paid Ads
+CUST-1072,Centro,Paid Ads
+CUST-1073,Norte,Organic Search
+CUST-1074,Patagonia,Social Media
+CUST-1075,Centro,Referral
+CUST-1076,Sur,Referral
+CUST-1077,Centro,Referral
+CUST-1078,Norte,Paid Ads
+CUST-1079,Sur,Referral
+CUST-1080,Patagonia,Organic Search
+CUST-1081,Patagonia,Social Media
+CUST-1082,Sur,Referral
+CUST-1083,Patagonia,Referral
+CUST-1084,Norte,Referral
+CUST-1085,Centro,Organic Search
+CUST-1086,Centro,Paid Ads
+CUST-1087,Sur,Social Media
+CUST-1088,Centro,Paid Ads
+CUST-1089,Sur,Paid Ads
+CUST-1090,Sur,Paid Ads
+CUST-1091,Norte,Referral
+CUST-1092,Centro,Paid Ads
+CUST-1093,Centro,Organic Search
+CUST-1094,Sur,Social Media
+CUST-1095,Centro,Paid Ads
+CUST-1096,Norte,Referral
+CUST-1097,Centro,Organic Search
+CUST-1098,Sur,Social Media
+CUST-1099,Norte,Paid Ads
+CUST-1100,Centro,Referral
+CUST-1101,Centro,Organic Search
+CUST-1102,Centro,Paid Ads
+CUST-1103,Centro,Paid Ads
+CUST-1104,Centro,Referral
+CUST-1105,Centro,Organic Search
+CUST-1106,Centro,Organic Search
+CUST-1107,Centro,Organic Search
+CUST-1108,Centro,Organic Search
+CUST-1109,Norte,Direct / Unknown
+CUST-1110,Sur,Paid Ads
+CUST-1111,Centro,Referral
+CUST-1112,Centro,Social Media
+CUST-1113,Centro,Social Media
+CUST-1114,Norte,Organic Search
+CUST-1115,Centro,Paid Ads
+CUST-1116,Patagonia,Paid Ads
+CUST-1117,Norte,Paid Ads
+CUST-1118,Centro,Social Media
+CUST-1119,Centro,Organic Search
+CUST-1120,Sur,Organic Search
+CUST-1121,Centro,Organic Search
+CUST-1122,Norte,Organic Search
+CUST-1123,Centro,Direct / Unknown
+CUST-1124,Centro,Referral
+CUST-1125,Centro,Paid Ads
+CUST-1126,Sur,Organic Search
+CUST-1127,Sur,Organic Search
+CUST-1128,Norte,Direct / Unknown
+CUST-1129,Centro,Social Media
+CUST-1130,Centro,Direct / Unknown
+CUST-1131,Norte,Organic Search
+CUST-1132,Norte,Paid Ads
+CUST-1133,Sur,Social Media
+CUST-1134,Centro,Paid Ads
+CUST-1135,Sur,Social Media
+CUST-1136,Norte,Referral
+CUST-1137,Norte,Paid Ads
+CUST-1138,Centro,Paid Ads
+CUST-1139,Centro,Organic Search
+CUST-1140,Patagonia,Organic Search
+CUST-1141,Centro,Paid Ads
+CUST-1142,Sur,Paid Ads
+CUST-1143,Centro,Organic Search
+CUST-1144,Norte,Paid Ads
+CUST-1145,Norte,Paid Ads
+CUST-1146,Norte,Paid Ads
+CUST-1147,Sur,Social Media
+CUST-1148,Norte,Paid Ads
+CUST-1149,Centro,Paid Ads
+CUST-1150,Patagonia,Paid Ads
+CUST-1151,Centro,Paid Ads
+CUST-1152,Centro,Social Media
+CUST-1153,Centro,Organic Search
+CUST-1154,Centro,Organic Search
+CUST-1155,Sur,Paid Ads
+CUST-1156,Patagonia,Social Media
+CUST-1157,Centro,Social Media
+CUST-1158,Centro,Direct / Unknown
+CUST-1159,Patagonia,Paid Ads
+CUST-1160,Sur,Organic Search
+CUST-1161,Centro,Direct / Unknown
+CUST-1162,Norte,Paid Ads
+CUST-1163,Norte,Referral
+CUST-1164,Centro,Organic Search
+CUST-1165,Sur,Direct / Unknown
+CUST-1166,Centro,Organic Search
+CUST-1167,Centro,Paid Ads
+CUST-1168,Centro,Social Media
+CUST-1169,Centro,Social Media
+CUST-1170,Patagonia,Paid Ads
+CUST-1171,Centro,Referral
+CUST-1172,Sur,Direct / Unknown
+CUST-1173,Sur,Referral
+CUST-1174,Centro,Paid Ads
+CUST-1175,Sur,Paid Ads
+CUST-1176,Norte,Direct / Unknown
+CUST-1177,Centro,Paid Ads
+CUST-1178,Norte,Organic Search
+CUST-1179,Centro,Organic Search
+CUST-1180,Centro,Referral
+CUST-1181,Sur,Paid Ads
+CUST-1182,Centro,Social Media
+CUST-1183,Sur,Social Media
+CUST-1184,Centro,Referral
+CUST-1185,Norte,Paid Ads
+CUST-1186,Sur,Paid Ads
+CUST-1187,Centro,Organic Search
+CUST-1188,Norte,Paid Ads
+CUST-1189,Centro,Paid Ads
+CUST-1190,Centro,Paid Ads
+CUST-1191,Norte,Direct / Unknown
+CUST-1192,Centro,Paid Ads
+CUST-1193,Norte,Social Media
+CUST-1194,Centro,Social Media
+CUST-1195,Centro,Paid Ads
+CUST-1196,Sur,Organic Search
+CUST-1197,Centro,Paid Ads
+CUST-1198,Patagonia,Referral
+CUST-1199,Norte,Referral
+CUST-1200,Centro,Social Media
+CUST-1201,Norte,Paid Ads
+CUST-1202,Patagonia,Referral
+CUST-1203,Centro,Organic Search
+CUST-1204,Centro,Paid Ads
+CUST-1205,Centro,Referral
+CUST-1206,Norte,Paid Ads
+CUST-1207,Norte,Paid Ads
+CUST-1208,Patagonia,Direct / Unknown
+CUST-1209,Patagonia,Social Media
+CUST-1210,Centro,Direct / Unknown
+CUST-1211,Sur,Social Media
+CUST-1212,Centro,Direct / Unknown
+CUST-1213,Centro,Paid Ads
+CUST-1214,Centro,Organic Search
+CUST-1215,Centro,Organic Search
+CUST-1216,Norte,Paid Ads
+CUST-1217,Centro,Referral
+CUST-1218,Patagonia,Organic Search
+CUST-1219,Norte,Organic Search
+CUST-1220,Norte,Social Media
+CUST-1221,Centro,Organic Search
+CUST-1222,Centro,Social Media
+CUST-1223,Centro,Organic Search
+CUST-1224,Sur,Referral
+CUST-1225,Centro,Paid Ads
+CUST-1226,Centro,Social Media
+CUST-1227,Centro,Organic Search
+CUST-1228,Centro,Referral
+CUST-1229,Centro,Referral
+CUST-1230,Centro,Organic Search
+CUST-1231,Centro,Paid Ads
+CUST-1232,Centro,Direct / Unknown
+CUST-1233,Centro,Social Media
+CUST-1234,Norte,Referral
+CUST-1235,Centro,Paid Ads
+CUST-1236,Centro,Social Media
+CUST-1237,Sur,Direct / Unknown
+CUST-1238,Patagonia,Organic Search
+CUST-1239,Sur,Organic Search
+CUST-1240,Patagonia,Paid Ads
+CUST-1241,Norte,Organic Search
+CUST-1242,Centro,Paid Ads
+CUST-1243,Norte,Referral
+CUST-1244,Centro,Referral
+CUST-1245,Sur,Direct / Unknown
+CUST-1246,Sur,Direct / Unknown
+CUST-1247,Norte,Social Media
+CUST-1248,Patagonia,Paid Ads
+CUST-1249,Sur,Paid Ads
+CUST-1250,Norte,Organic Search
+CUST-1251,Sur,Organic Search
+CUST-1252,Sur,Social Media
+CUST-1253,Sur,Referral
+CUST-1254,Centro,Paid Ads
+CUST-1255,Centro,Organic Search
+CUST-1256,Centro,Social Media
+CUST-1257,Centro,Paid Ads
+CUST-1258,Centro,Social Media
+CUST-1259,Centro,Social Media
+CUST-1260,Sur,Organic Search
+CUST-1261,Centro,Organic Search
+CUST-1262,Sur,Social Media
+CUST-1263,Centro,Social Media
+CUST-1264,Centro,Social Media
+CUST-1265,Centro,Social Media
+CUST-1266,Centro,Social Media
+CUST-1267,Centro,Paid Ads
+CUST-1268,Centro,Direct / Unknown
+CUST-1269,Norte,Paid Ads
+CUST-1270,Norte,Paid Ads
+CUST-1271,Patagonia,Organic Search
+CUST-1272,Norte,Direct / Unknown
+CUST-1273,Norte,Paid Ads
+CUST-1274,Centro,Paid Ads
+CUST-1275,Patagonia,Paid Ads
+CUST-1276,Centro,Paid Ads
+CUST-1277,Norte,Paid Ads
+CUST-1278,Centro,Direct / Unknown
+CUST-1279,Sur,Direct / Unknown
+CUST-1280,Norte,Paid Ads
+CUST-1281,Centro,Paid Ads
+CUST-1282,Sur,Referral
+CUST-1283,Centro,Organic Search
+CUST-1284,Patagonia,Paid Ads
+CUST-1285,Sur,Direct / Unknown
+CUST-1286,Norte,Social Media
+CUST-1287,Centro,Social Media
+CUST-1288,Norte,Referral
+CUST-1289,Sur,Organic Search
+CUST-1290,Centro,Paid Ads
+CUST-1291,Patagonia,Direct / Unknown
+CUST-1292,Centro,Organic Search
+CUST-1293,Centro,Social Media
+CUST-1294,Norte,Organic Search
+CUST-1295,Centro,Direct / Unknown
+CUST-1296,Centro,Organic Search
+CUST-1297,Norte,Social Media
+CUST-1298,Sur,Paid Ads
+CUST-1299,Norte,Referral
+CUST-1300,Norte,Organic Search
+CUST-1301,Sur,Organic Search
+CUST-1302,Norte,Social Media
+CUST-1303,Norte,Paid Ads
+CUST-1304,Centro,Direct / Unknown
+CUST-1305,Norte,Referral
+CUST-1306,Norte,Paid Ads
+CUST-1307,Centro,Paid Ads
+CUST-1308,Norte,Referral
+CUST-1309,Centro,Referral
+CUST-1310,Centro,Organic Search
+CUST-1311,Centro,Paid Ads
+CUST-1312,Norte,Social Media
+CUST-1313,Centro,Paid Ads
+CUST-1314,Centro,Paid Ads
+CUST-1315,Norte,Paid Ads
+CUST-1316,Sur,Referral
+CUST-1317,Norte,Paid Ads
+CUST-1318,Norte,Paid Ads
+CUST-1319,Norte,Social Media
+CUST-1320,Centro,Paid Ads
+CUST-1321,Norte,Organic Search
+CUST-1322,Centro,Paid Ads
+CUST-1323,Sur,Organic Search
+CUST-1324,Norte,Social Media
+CUST-1325,Centro,Paid Ads
+CUST-1326,Centro,Organic Search
+CUST-1327,Centro,Organic Search
+CUST-1328,Sur,Organic Search
+CUST-1329,Norte,Social Media
+CUST-1330,Norte,Paid Ads
+CUST-1331,Centro,Paid Ads
+CUST-1332,Sur,Paid Ads
+CUST-1333,Norte,Social Media
+CUST-1334,Centro,Organic Search
+CUST-1335,Sur,Organic Search
+CUST-1336,Centro,Paid Ads
+CUST-1337,Centro,Referral
+CUST-1338,Sur,Paid Ads
+CUST-1339,Centro,Organic Search
+CUST-1340,Norte,Paid Ads
+CUST-1341,Sur,Social Media
+CUST-1342,Norte,Paid Ads
+CUST-1343,Centro,Social Media
+CUST-1344,Centro,Paid Ads
+CUST-1345,Sur,Referral
+CUST-1346,Centro,Social Media
+CUST-1347,Sur,Paid Ads
+CUST-1348,Norte,Organic Search
+CUST-1349,Centro,Direct / Unknown
+CUST-1350,Centro,Paid Ads
+CUST-1351,Sur,Organic Search
+CUST-1352,Centro,Paid Ads
+CUST-1353,Centro,Referral
+CUST-1354,Sur,Referral
+CUST-1355,Norte,Referral
+CUST-1356,Sur,Direct / Unknown
+CUST-1357,Centro,Social Media
+CUST-1358,Sur,Paid Ads
+CUST-1359,Centro,Organic Search
+CUST-1360,Norte,Social Media
+CUST-1361,Centro,Organic Search
+CUST-1362,Centro,Organic Search
+CUST-1363,Centro,Organic Search
+CUST-1364,Norte,Organic Search
+CUST-1365,Centro,Organic Search
+CUST-1366,Centro,Organic Search
+CUST-1367,Norte,Organic Search
+CUST-1368,Sur,Social Media
+CUST-1369,Centro,Social Media
+CUST-1370,Centro,Referral
+CUST-1371,Norte,Paid Ads
+CUST-1372,Sur,Social Media
+CUST-1373,Centro,Social Media
+CUST-1374,Sur,Referral
+CUST-1375,Centro,Organic Search
+CUST-1376,Sur,Organic Search
+CUST-1377,Norte,Organic Search
+CUST-1378,Norte,Referral
+CUST-1379,Centro,Paid Ads
+CUST-1380,Norte,Paid Ads
+CUST-1381,Sur,Organic Search
+CUST-1382,Sur,Paid Ads
+CUST-1383,Norte,Organic Search
+CUST-1384,Norte,Organic Search
+CUST-1385,Centro,Social Media
+CUST-1386,Norte,Paid Ads
+CUST-1387,Norte,Paid Ads
+CUST-1388,Centro,Paid Ads
+CUST-1389,Centro,Organic Search
+CUST-1390,Sur,Social Media
+CUST-1391,Patagonia,Paid Ads
+CUST-1392,Centro,Direct / Unknown
+CUST-1393,Sur,Referral
+CUST-1394,Norte,Paid Ads
+CUST-1395,Centro,Social Media
+CUST-1396,Centro,Organic Search
+CUST-1397,Centro,Paid Ads
+CUST-1398,Centro,Social Media
+CUST-1399,Norte,Paid Ads
+CUST-1400,Sur,Social Media
+CUST-1401,Norte,Social Media
+CUST-1402,Centro,Paid Ads
+CUST-1403,Patagonia,Organic Search
+CUST-1404,Norte,Social Media
+CUST-1405,Sur,Organic Search
+CUST-1406,Centro,Paid Ads
+CUST-1407,Sur,Direct / Unknown
+CUST-1408,Norte,Referral
+CUST-1409,Norte,Referral
+CUST-1410,Norte,Paid Ads
+CUST-1411,Centro,Organic Search
+CUST-1412,Norte,Social Media
+CUST-1413,Patagonia,Paid Ads
+CUST-1414,Centro,Referral
+CUST-1415,Patagonia,Paid Ads
+CUST-1416,Patagonia,Referral
+CUST-1417,Centro,Organic Search
+CUST-1418,Norte,Organic Search
+CUST-1419,Sur,Paid Ads
+CUST-1420,Sur,Paid Ads
+CUST-1421,Centro,Referral
+CUST-1422,Sur,Paid Ads
+CUST-1423,Centro,Paid Ads
+CUST-1424,Patagonia,Paid Ads
+CUST-1425,Centro,Paid Ads
+CUST-1426,Centro,Referral
+CUST-1427,Centro,Paid Ads
+CUST-1428,Centro,Organic Search
+CUST-1429,Centro,Social Media
+CUST-1430,Sur,Paid Ads
+CUST-1431,Centro,Paid Ads
+CUST-1432,Centro,Organic Search
+CUST-1433,Centro,Paid Ads
+CUST-1434,Centro,Referral
+CUST-1435,Centro,Organic Search
+CUST-1436,Centro,Organic Search
+CUST-1437,Sur,Social Media
+CUST-1438,Centro,Organic Search
+CUST-1439,Patagonia,Paid Ads
+CUST-1440,Norte,Social Media
+CUST-1441,Sur,Paid Ads
+CUST-1442,Centro,Referral
+CUST-1443,Sur,Paid Ads
+CUST-1444,Centro,Paid Ads
+CUST-1445,Centro,Paid Ads
+CUST-1446,Norte,Paid Ads
+CUST-1447,Centro,Organic Search
+CUST-1448,Sur,Organic Search
+CUST-1449,Centro,Referral
+CUST-1450,Sur,Paid Ads
+CUST-1451,Patagonia,Paid Ads
+CUST-1452,Sur,Paid Ads
+CUST-1453,Centro,Paid Ads
+CUST-1454,Sur,Referral
+CUST-1455,Centro,Organic Search
+CUST-1456,Patagonia,Referral
+CUST-1457,Sur,Organic Search
+CUST-1458,Norte,Referral
+CUST-1459,Centro,Direct / Unknown
+CUST-1460,Centro,Organic Search
+CUST-1461,Sur,Paid Ads
+CUST-1462,Norte,Referral
+CUST-1463,Centro,Organic Search
+CUST-1464,Norte,Paid Ads
+CUST-1465,Norte,Paid Ads
+CUST-1466,Centro,Social Media
+CUST-1467,Centro,Organic Search
+CUST-1468,Sur,Social Media
+CUST-1469,Sur,Direct / Unknown
+CUST-1470,Centro,Social Media
+CUST-1471,Centro,Organic Search
+CUST-1472,Centro,Referral
+CUST-1473,Centro,Organic Search
+CUST-1474,Centro,Organic Search
+CUST-1475,Sur,Paid Ads
+CUST-1476,Sur,Paid Ads
+CUST-1477,Sur,Paid Ads
+CUST-1478,Centro,Social Media
+CUST-1479,Norte,Organic Search
+CUST-1480,Norte,Organic Search
+CUST-1481,Norte,Social Media
+CUST-1482,Norte,Organic Search
+CUST-1483,Patagonia,Paid Ads
+CUST-1484,Sur,Paid Ads
+CUST-1485,Sur,Paid Ads
+CUST-1486,Centro,Organic Search
+CUST-1487,Centro,Social Media
+CUST-1488,Sur,Social Media
+CUST-1489,Patagonia,Paid Ads
+CUST-1490,Norte,Referral
+CUST-1491,Sur,Organic Search
+CUST-1492,Patagonia,Paid Ads
+CUST-1493,Centro,Social Media
+CUST-1494,Sur,Social Media
+CUST-1495,Patagonia,Paid Ads
+CUST-1496,Centro,Organic Search
+CUST-1497,Sur,Paid Ads
+CUST-1498,Centro,Paid Ads
+CUST-1499,Centro,Social Media
+CUST-1500,Sur,Referral
+CUST-1501,Patagonia,Paid Ads
+CUST-1502,Centro,Paid Ads
+CUST-1503,Norte,Paid Ads
+CUST-1504,Centro,Paid Ads
+CUST-1505,Centro,Social Media
+CUST-1506,Centro,Referral
+CUST-1507,Sur,Organic Search
+CUST-1508,Norte,Paid Ads
+CUST-1509,Centro,Organic Search
+CUST-1510,Centro,Organic Search
+CUST-1511,Centro,Organic Search
+CUST-1512,Centro,Referral
+CUST-1513,Norte,Paid Ads
+CUST-1514,Centro,Organic Search
+CUST-1515,Sur,Paid Ads
+CUST-1516,Patagonia,Social Media
+CUST-1517,Norte,Referral
+CUST-1518,Sur,Organic Search
+CUST-1519,Norte,Organic Search
+CUST-1520,Norte,Paid Ads
+CUST-1521,Centro,Paid Ads
+CUST-1522,Norte,Paid Ads
+CUST-1523,Sur,Social Media
+CUST-1524,Norte,Organic Search
+CUST-1525,Centro,Referral
+CUST-1526,Sur,Organic Search
+CUST-1527,Norte,Paid Ads
+CUST-1528,Norte,Social Media
+CUST-1529,Centro,Social Media
+CUST-1530,Sur,Organic Search
+CUST-1531,Norte,Paid Ads
+CUST-1532,Sur,Social Media
+CUST-1533,Norte,Paid Ads
+CUST-1534,Norte,Paid Ads
+CUST-1535,Centro,Referral
+CUST-1536,Sur,Paid Ads
+CUST-1537,Centro,Paid Ads
+CUST-1538,Sur,Paid Ads
+CUST-1539,Sur,Organic Search
+CUST-1540,Sur,Paid Ads
+CUST-1541,Sur,Organic Search
+CUST-1542,Patagonia,Organic Search
+CUST-1543,Norte,Organic Search
+CUST-1544,Centro,Social Media
+CUST-1545,Patagonia,Social Media
+CUST-1546,Centro,Referral
+CUST-1547,Norte,Organic Search
+CUST-1548,Centro,Paid Ads
+CUST-1549,Sur,Referral
+CUST-1550,Norte,Paid Ads
+CUST-1551,Centro,Referral
+CUST-1552,Centro,Organic Search
+CUST-1553,Centro,Social Media
+CUST-1554,Sur,Organic Search
+CUST-1555,Norte,Organic Search
+CUST-1556,Sur,Referral
+CUST-1557,Centro,Social Media
+CUST-1558,Norte,Paid Ads
+CUST-1559,Sur,Organic Search
+CUST-1560,Norte,Organic Search
+CUST-1561,Patagonia,Organic Search
+CUST-1562,Sur,Organic Search
+CUST-1563,Centro,Social Media
+CUST-1564,Sur,Paid Ads
+CUST-1565,Sur,Paid Ads
+CUST-1566,Centro,Referral
+CUST-1567,Sur,Referral
+CUST-1568,Patagonia,Referral
+CUST-1569,Norte,Paid Ads
+CUST-1570,Norte,Organic Search
+CUST-1571,Centro,Paid Ads
+CUST-1572,Sur,Organic Search
+CUST-1573,Centro,Social Media
+CUST-1574,Sur,Organic Search
+CUST-1575,Centro,Social Media
+CUST-1576,Centro,Paid Ads
+CUST-1577,Centro,Social Media
+CUST-1578,Centro,Direct / Unknown
+CUST-1579,Norte,Paid Ads
+CUST-1580,Centro,Paid Ads
+CUST-1581,Centro,Paid Ads
+CUST-1582,Centro,Paid Ads
+CUST-1583,Norte,Social Media
+CUST-1584,Centro,Referral
+CUST-1585,Patagonia,Referral
+CUST-1586,Centro,Paid Ads
+CUST-1587,Centro,Organic Search
+CUST-1588,Norte,Organic Search
+CUST-1589,Centro,Organic Search
+CUST-1590,Norte,Paid Ads
+CUST-1591,Norte,Referral
+CUST-1592,Norte,Paid Ads
+CUST-1593,Centro,Organic Search
+CUST-1594,Centro,Organic Search
+CUST-1595,Centro,Organic Search
+CUST-1596,Centro,Referral
+CUST-1597,Sur,Paid Ads
+CUST-1598,Centro,Organic Search
+CUST-1599,Sur,Social Media
+CUST-1600,Centro,Paid Ads
+CUST-1601,Centro,Organic Search
+CUST-1602,Centro,Social Media
+CUST-1603,Centro,Paid Ads
+CUST-1604,Centro,Organic Search
+CUST-1605,Centro,Social Media
+CUST-1606,Norte,Organic Search
+CUST-1607,Norte,Organic Search
+CUST-1608,Sur,Paid Ads
+CUST-1609,Centro,Referral
+CUST-1610,Sur,Referral
+CUST-1611,Centro,Social Media
+CUST-1612,Sur,Direct / Unknown
+CUST-1613,Patagonia,Paid Ads
+CUST-1614,Patagonia,Paid Ads
+CUST-1615,Sur,Paid Ads
+CUST-1616,Sur,Referral
+CUST-1617,Centro,Referral
+CUST-1618,Norte,Paid Ads
+CUST-1619,Norte,Organic Search
+CUST-1620,Centro,Social Media
+CUST-1621,Centro,Referral
+CUST-1622,Centro,Social Media
+CUST-1623,Centro,Paid Ads
+CUST-1624,Centro,Direct / Unknown
+CUST-1625,Norte,Social Media
+CUST-1626,Sur,Paid Ads
+CUST-1627,Centro,Direct / Unknown
+CUST-1628,Centro,Social Media
+CUST-1629,Centro,Paid Ads
+CUST-1630,Norte,Organic Search
+CUST-1631,Norte,Social Media
+CUST-1632,Sur,Referral
+CUST-1633,Norte,Organic Search
+CUST-1634,Centro,Social Media
+CUST-1635,Norte,Organic Search
+CUST-1636,Norte,Referral
+CUST-1637,Centro,Paid Ads
+CUST-1638,Patagonia,Referral
+CUST-1639,Patagonia,Social Media
+CUST-1640,Norte,Referral
+CUST-1641,Centro,Paid Ads
+CUST-1642,Norte,Referral
+CUST-1643,Centro,Social Media
+CUST-1644,Sur,Direct / Unknown
+CUST-1645,Norte,Social Media
+CUST-1646,Centro,Social Media
+CUST-1647,Centro,Organic Search
+CUST-1648,Sur,Referral
+CUST-1649,Centro,Organic Search
+CUST-1650,Sur,Referral
+CUST-1651,Centro,Direct / Unknown
+CUST-1652,Norte,Organic Search
+CUST-1653,Sur,Paid Ads
+CUST-1654,Patagonia,Social Media
+CUST-1655,Sur,Paid Ads
+CUST-1656,Centro,Paid Ads
+CUST-1657,Centro,Social Media
+CUST-1658,Centro,Paid Ads
+CUST-1659,Centro,Organic Search
+CUST-1660,Sur,Social Media
+CUST-1661,Centro,Referral
+CUST-1662,Centro,Paid Ads
+CUST-1663,Norte,Organic Search
+CUST-1664,Centro,Paid Ads
+CUST-1665,Sur,Organic Search
+CUST-1666,Centro,Paid Ads
+CUST-1667,Sur,Organic Search
+CUST-1668,Centro,Organic Search
+CUST-1669,Centro,Organic Search
+CUST-1670,Norte,Social Media
+CUST-1671,Sur,Paid Ads
+CUST-1672,Centro,Paid Ads
+CUST-1673,Norte,Paid Ads
+CUST-1674,Centro,Paid Ads
+CUST-1675,Patagonia,Paid Ads
+CUST-1676,Centro,Organic Search
+CUST-1677,Norte,Organic Search
+CUST-1678,Norte,Paid Ads
+CUST-1679,Patagonia,Paid Ads
+CUST-1680,Sur,Social Media
+CUST-1681,Centro,Social Media
+CUST-1682,Centro,Direct / Unknown
+CUST-1683,Centro,Paid Ads
+CUST-1684,Centro,Organic Search
+CUST-1685,Patagonia,Organic Search
+CUST-1686,Centro,Social Media
+CUST-1687,Norte,Paid Ads
+CUST-1688,Sur,Organic Search
+CUST-1689,Sur,Organic Search
+CUST-1690,Norte,Paid Ads
+CUST-1691,Norte,Organic Search
+CUST-1692,Centro,Organic Search
+CUST-1693,Norte,Organic Search
+CUST-1694,Centro,Organic Search
+CUST-1695,Centro,Social Media
+CUST-1696,Sur,Organic Search
+CUST-1697,Norte,Organic Search
+CUST-1698,Norte,Paid Ads
+CUST-1699,Centro,Paid Ads
+CUST-1700,Centro,Social Media
+CUST-1701,Centro,Paid Ads
+CUST-1702,Norte,Paid Ads
+CUST-1703,Sur,Organic Search
+CUST-1704,Norte,Paid Ads
+CUST-1705,Sur,Organic Search
+CUST-1706,Centro,Social Media
+CUST-1707,Sur,Social Media
+CUST-1708,Sur,Social Media
+CUST-1709,Centro,Organic Search
+CUST-1710,Centro,Social Media
+CUST-1711,Centro,Organic Search
+CUST-1712,Centro,Paid Ads
+CUST-1713,Centro,Referral
+CUST-1714,Centro,Social Media
+CUST-1715,Centro,Social Media
+CUST-1716,Patagonia,Paid Ads
+CUST-1717,Sur,Paid Ads
+CUST-1718,Norte,Organic Search
+CUST-1719,Centro,Referral
+CUST-1720,Centro,Organic Search
+CUST-1721,Sur,Paid Ads
+CUST-1722,Centro,Paid Ads
+CUST-1723,Sur,Referral
+CUST-1724,Centro,Paid Ads
+CUST-1725,Norte,Organic Search
+CUST-1726,Norte,Organic Search
+CUST-1727,Norte,Social Media
+CUST-1728,Centro,Organic Search
+CUST-1729,Centro,Referral
+CUST-1730,Norte,Organic Search
+CUST-1731,Centro,Organic Search
+CUST-1732,Centro,Paid Ads
+CUST-1733,Norte,Organic Search
+CUST-1734,Norte,Social Media
+CUST-1735,Centro,Paid Ads
+CUST-1736,Centro,Organic Search
+CUST-1737,Centro,Organic Search
+CUST-1738,Centro,Organic Search
+CUST-1739,Norte,Social Media
+CUST-1740,Sur,Referral
+CUST-1741,Centro,Social Media
+CUST-1742,Norte,Paid Ads
+CUST-1743,Patagonia,Referral
+CUST-1744,Centro,Organic Search
+CUST-1745,Sur,Organic Search
+CUST-1746,Centro,Paid Ads
+CUST-1747,Norte,Paid Ads
+CUST-1748,Centro,Paid Ads
+CUST-1749,Norte,Social Media
+CUST-1750,Centro,Organic Search
+CUST-1751,Sur,Social Media
+CUST-1752,Patagonia,Organic Search
+CUST-1753,Centro,Referral
+CUST-1754,Centro,Direct / Unknown
+CUST-1755,Centro,Direct / Unknown
+CUST-1756,Sur,Organic Search
+CUST-1757,Sur,Organic Search
+CUST-1758,Norte,Paid Ads
+CUST-1759,Sur,Social Media
+CUST-1760,Centro,Direct / Unknown
+CUST-1761,Centro,Paid Ads
+CUST-1762,Centro,Paid Ads
+CUST-1763,Patagonia,Referral
+CUST-1764,Norte,Referral
+CUST-1765,Centro,Social Media
+CUST-1766,Centro,Organic Search
+CUST-1767,Sur,Direct / Unknown
+CUST-1768,Norte,Paid Ads
+CUST-1769,Patagonia,Referral
+CUST-1770,Patagonia,Organic Search
+CUST-1771,Centro,Organic Search
+CUST-1772,Centro,Paid Ads
+CUST-1773,Patagonia,Referral
+CUST-1774,Centro,Paid Ads
+CUST-1775,Centro,Social Media
+CUST-1776,Centro,Paid Ads
+CUST-1777,Norte,Organic Search
+CUST-1778,Norte,Paid Ads
+CUST-1779,Norte,Social Media
+CUST-1780,Centro,Organic Search
+CUST-1781,Centro,Referral
+CUST-1782,Centro,Referral
+CUST-1783,Centro,Referral
+CUST-1784,Norte,Referral
+CUST-1785,Patagonia,Social Media
+CUST-1786,Centro,Organic Search
+CUST-1787,Sur,Referral
+CUST-1788,Norte,Organic Search
+CUST-1789,Norte,Organic Search
+CUST-1790,Centro,Social Media
+CUST-1791,Patagonia,Paid Ads
+CUST-1792,Centro,Paid Ads
+CUST-1793,Centro,Referral
+CUST-1794,Sur,Direct / Unknown
+CUST-1795,Sur,Paid Ads
+CUST-1796,Centro,Organic Search
+CUST-1797,Norte,Referral
+CUST-1798,Centro,Paid Ads
+CUST-1799,Sur,Direct / Unknown
+CUST-1800,Norte,Organic Search
+CUST-1801,Patagonia,Social Media
+CUST-1802,Centro,Organic Search
+CUST-1803,Centro,Paid Ads
+CUST-1804,Patagonia,Paid Ads
+CUST-1805,Centro,Organic Search
+CUST-1806,Sur,Paid Ads
+CUST-1807,Norte,Paid Ads
+CUST-1808,Norte,Paid Ads
+CUST-1809,Norte,Referral
+CUST-1810,Patagonia,Organic Search
+CUST-1811,Norte,Social Media
+CUST-1812,Patagonia,Organic Search
+CUST-1813,Centro,Organic Search
+CUST-1814,Patagonia,Organic Search
+CUST-1815,Norte,Organic Search
+CUST-1816,Norte,Referral
+CUST-1817,Centro,Organic Search
+CUST-1818,Patagonia,Social Media
+CUST-1819,Centro,Paid Ads
+CUST-1820,Centro,Organic Search
+CUST-1821,Sur,Paid Ads
+CUST-1822,Norte,Paid Ads
+CUST-1823,Patagonia,Paid Ads
+CUST-1824,Norte,Paid Ads
+CUST-1825,Sur,Paid Ads
+CUST-1826,Norte,Organic Search
+CUST-1827,Norte,Referral
+CUST-1828,Centro,Organic Search
+CUST-1829,Centro,Social Media
+CUST-1830,Norte,Paid Ads
+CUST-1831,Sur,Social Media
+CUST-1832,Centro,Organic Search
+CUST-1833,Norte,Paid Ads
+CUST-1834,Norte,Referral
+CUST-1835,Centro,Referral
+CUST-1836,Patagonia,Social Media
+CUST-1837,Centro,Social Media
+CUST-1838,Centro,Organic Search
+CUST-1839,Sur,Organic Search
+CUST-1840,Centro,Organic Search
+CUST-1841,Centro,Paid Ads
+CUST-1842,Centro,Referral
+CUST-1843,Norte,Referral
+CUST-1844,Centro,Paid Ads
+CUST-1845,Patagonia,Social Media
+CUST-1846,Patagonia,Paid Ads
+CUST-1847,Centro,Direct / Unknown
+CUST-1848,Sur,Organic Search
+CUST-1849,Norte,Organic Search
+CUST-1850,Patagonia,Organic Search
+CUST-1851,Sur,Organic Search
+CUST-1852,Norte,Organic Search
+CUST-1853,Sur,Social Media
+CUST-1854,Centro,Social Media
+CUST-1855,Patagonia,Organic Search
+CUST-1856,Patagonia,Paid Ads
+CUST-1857,Centro,Paid Ads
+CUST-1858,Sur,Social Media
+CUST-1859,Centro,Paid Ads
+CUST-1860,Sur,Paid Ads
+CUST-1861,Sur,Paid Ads
+CUST-1862,Centro,Social Media
+CUST-1863,Norte,Organic Search
+CUST-1864,Sur,Social Media
+CUST-1865,Norte,Organic Search
+CUST-1866,Centro,Social Media
+CUST-1867,Norte,Organic Search
+CUST-1868,Norte,Social Media
+CUST-1869,Sur,Paid Ads
+CUST-1870,Centro,Social Media
+CUST-1871,Centro,Paid Ads
+CUST-1872,Centro,Organic Search
+CUST-1873,Sur,Referral
+CUST-1874,Patagonia,Organic Search
+CUST-1875,Centro,Direct / Unknown
+CUST-1876,Norte,Organic Search
+CUST-1877,Centro,Social Media
+CUST-1878,Sur,Referral
+CUST-1879,Centro,Paid Ads
+CUST-1880,Centro,Organic Search
+CUST-1881,Centro,Organic Search
+CUST-1882,Norte,Organic Search
+CUST-1883,Norte,Social Media
+CUST-1884,Centro,Paid Ads
+CUST-1885,Norte,Referral
+CUST-1886,Centro,Paid Ads
+CUST-1887,Centro,Organic Search
+CUST-1888,Sur,Referral
+CUST-1889,Centro,Organic Search
+CUST-1890,Centro,Paid Ads
+CUST-1891,Norte,Organic Search
+CUST-1892,Norte,Paid Ads
+CUST-1893,Centro,Direct / Unknown
+CUST-1894,Sur,Direct / Unknown
+CUST-1895,Norte,Organic Search
+CUST-1896,Centro,Social Media
+CUST-1897,Centro,Paid Ads
+CUST-1898,Patagonia,Paid Ads
+CUST-1899,Norte,Organic Search
+CUST-1900,Centro,Paid Ads
+CUST-1901,Patagonia,Social Media
+CUST-1902,Centro,Direct / Unknown
+CUST-1903,Sur,Organic Search
+CUST-1904,Sur,Organic Search
+CUST-1905,Centro,Paid Ads
+CUST-1906,Centro,Organic Search
+CUST-1907,Centro,Referral
+CUST-1908,Centro,Organic Search
+CUST-1909,Centro,Paid Ads
+CUST-1910,Sur,Social Media
+CUST-1911,Centro,Organic Search
+CUST-1912,Norte,Social Media
+CUST-1913,Centro,Paid Ads
+CUST-1914,Centro,Direct / Unknown
+CUST-1915,Norte,Direct / Unknown
+CUST-1916,Sur,Direct / Unknown
+CUST-1917,Norte,Paid Ads
+CUST-1918,Centro,Paid Ads
+CUST-1919,Centro,Social Media
+CUST-1920,Centro,Organic Search
+CUST-1921,Sur,Referral
+CUST-1922,Norte,Paid Ads
+CUST-1923,Centro,Social Media
+CUST-1924,Centro,Paid Ads
+CUST-1925,Centro,Organic Search
+CUST-1926,Patagonia,Organic Search
+CUST-1927,Norte,Paid Ads
+CUST-1928,Norte,Social Media
+CUST-1929,Patagonia,Referral
+CUST-1930,Norte,Social Media
+CUST-1931,Centro,Referral
+CUST-1932,Norte,Organic Search
+CUST-1933,Centro,Organic Search
+CUST-1934,Norte,Organic Search
+CUST-1935,Centro,Organic Search
+CUST-1936,Sur,Social Media
+CUST-1937,Norte,Paid Ads
+CUST-1938,Norte,Paid Ads
+CUST-1939,Centro,Organic Search
+CUST-1940,Sur,Paid Ads
+CUST-1941,Sur,Organic Search
+CUST-1942,Patagonia,Referral
+CUST-1943,Centro,Organic Search
+CUST-1944,Centro,Social Media
+CUST-1945,Sur,Referral
+CUST-1946,Centro,Referral
+CUST-1947,Centro,Organic Search
+CUST-1948,Centro,Organic Search
+CUST-1949,Norte,Organic Search
+CUST-1950,Sur,Paid Ads
+CUST-1951,Centro,Organic Search
+CUST-1952,Norte,Social Media
+CUST-1953,Sur,Organic Search
+CUST-1954,Centro,Organic Search
+CUST-1955,Centro,Paid Ads
+CUST-1956,Centro,Paid Ads
+CUST-1957,Norte,Social Media
+CUST-1958,Norte,Social Media
+CUST-1959,Centro,Organic Search
+CUST-1960,Centro,Organic Search
+CUST-1961,Centro,Referral
+CUST-1962,Norte,Referral
+CUST-1963,Norte,Social Media
+CUST-1964,Norte,Referral
+CUST-1965,Sur,Organic Search
+CUST-1966,Centro,Paid Ads
+CUST-1967,Centro,Paid Ads
+CUST-1968,Sur,Referral
+CUST-1969,Patagonia,Organic Search
+CUST-1970,Centro,Organic Search
+CUST-1971,Centro,Organic Search
+CUST-1972,Patagonia,Organic Search
+CUST-1973,Norte,Referral
+CUST-1974,Centro,Organic Search
+CUST-1975,Centro,Organic Search
+CUST-1976,Norte,Organic Search
+CUST-1977,Sur,Organic Search
+CUST-1978,Norte,Paid Ads
+CUST-1979,Norte,Social Media
+CUST-1980,Centro,Paid Ads
+CUST-1981,Centro,Organic Search
+CUST-1982,Sur,Referral
+CUST-1983,Norte,Organic Search
+CUST-1984,Centro,Organic Search
+CUST-1985,Centro,Paid Ads
+CUST-1986,Norte,Paid Ads
+CUST-1987,Norte,Organic Search
+CUST-1988,Sur,Organic Search
+CUST-1989,Norte,Social Media
+CUST-1990,Patagonia,Referral
+CUST-1991,Norte,Organic Search
+CUST-1992,Centro,Organic Search
+CUST-1993,Centro,Paid Ads
+CUST-1994,Sur,Organic Search
+CUST-1995,Sur,Social Media
+CUST-1996,Norte,Paid Ads
+CUST-1997,Norte,Paid Ads
+CUST-1998,Norte,Organic Search
+CUST-1999,Centro,Organic Search
+CUST-2000,Centro,Paid Ads
