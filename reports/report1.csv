@@ -1,0 +1,5 @@
+tramo_descuento,total_ordenes,facturacion_bruta_usd,ingreso_neto_usd,ganancia_neta_usd,margen_neto_pct
+"1. Full Price (0%)",4012,1419475.00,1229035.00,432704.30,35.21
+"2. Promo Leve (5% - 10%)",3476,1225565.00,966447.00,292961.76,30.31
+"3. Promo Media (15% - 25%)",2016,667245.00,465407.75,88114.63,18.93
+"4. Liquidación Agresiva (35%)",496,175120.00,99495.50,367.78,0.37
